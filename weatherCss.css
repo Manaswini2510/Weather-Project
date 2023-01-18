@@ -1,0 +1,52 @@
+.heading{
+    font-size: 50px;
+    color: white;
+}
+.highlight{
+    color: rgb(69, 21, 227);
+    font-size: 50px;
+}
+.bg{
+    background-image:radial-gradient(circle at center,rgb(200, 236, 246),rgb(66, 149, 213));
+    height: 100vh;
+    background-size: cover;
+}
+.day-card{
+    background-color: rgb(24, 121, 231);
+    color: white;
+    width: 300px;
+    padding: 5px;
+    height: 60px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 5px;
+}
+.inputEl{
+    height: 40px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+.image{
+    height: 220px;
+    width: 220px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.line{
+    border-width: 100px;
+    border-style: solid;
+    border-color: black;
+}
+.weather-card{
+    background-color: white;
+    border-radius: 8px;
+    color: black;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 300px;
+    padding-bottom: 20px;
+    padding-top: 15px;
+}
+.temperatureHeading{
+    font-size: 20px;
+}
